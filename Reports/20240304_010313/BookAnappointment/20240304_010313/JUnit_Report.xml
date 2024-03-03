@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="BookAnappointment" time="0.602" tests="2" failures="0" errors="0">
+   <testsuite name="BookAnappointment" tests="2" failures="0" errors="0" time="0.602" skipped="0" timestamp="04-03-2024T01:03:31" hostname="SukhmaniK - sukhmanik.emids.local" id="Test Suites/BookAnappointment">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\sukhmanik\\git\\Katalon-Platform\\Reports\\20240304_010313\\BookAnappointment\\20240304_010313"/>
+         <property name="logFiles" value="C:\\Users\\sukhmanik\\git\\Katalon-Platform\\Reports\\20240304_010313\\BookAnappointment\\20240304_010313\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="SukhmaniK - sukhmanik.emids.local"/>
+         <property name="hostAddress" value="192.168.0.101"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.3.1.212"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="0.241" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[04-03-2024T01:03:31 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+04-03-2024T01:03:31 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/BookAnAppointment" time="0.025" classname="Test Cases/BookAnAppointment" status="PASSED">
+         <system-out><![CDATA[04-03-2024T01:03:31 - [TEST_CASE][PASSED] - Test Cases/BookAnAppointment: Test Cases/BookAnAppointment
+
+04-03-2024T01:03:31 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[04-03-2024T01:03:31 - [TEST_SUITE][PASSED] - BookAnappointment: Test Cases/BookAnAppointment]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

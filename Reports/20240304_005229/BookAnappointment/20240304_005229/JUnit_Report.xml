@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="BookAnappointment" time="0.269" tests="2" failures="0" errors="2">
+   <testsuite name="BookAnappointment" tests="2" failures="0" errors="2" time="0.269" skipped="0" timestamp="04-03-2024T00:52:44" hostname="SukhmaniK - sukhmanik.emids.local" id="Test Suites/BookAnappointment">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\sukhmanik\\git\\Katalon-Platform\\Reports\\20240304_005229\\BookAnappointment\\20240304_005229"/>
+         <property name="logFiles" value="C:\\Users\\sukhmanik\\git\\Katalon-Platform\\Reports\\20240304_005229\\BookAnappointment\\20240304_005229\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="SukhmaniK - sukhmanik.emids.local"/>
+         <property name="hostAddress" value="192.168.0.101"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.3.1.212"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="0.005" classname="Test Cases/Login" status="ERROR">
+         <error type="ERROR" message="Test Cases/Login has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[04-03-2024T00:52:44 - [TEST_CASE][ERROR] - Test Cases/Login: Test Cases/Login has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[04-03-2024T00:52:44 - [TEST_CASE][ERROR] - Test Cases/Login: Test Cases/Login has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/BookAnAppointment" time="0.005" classname="Test Cases/BookAnAppointment" status="ERROR">
+         <error type="ERROR" message="Test Cases/BookAnAppointment has ERROR(s).&#xa;Reason:&#xa;java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[04-03-2024T00:52:44 - [TEST_CASE][ERROR] - Test Cases/BookAnAppointment: Test Cases/BookAnAppointment has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[04-03-2024T00:52:44 - [TEST_CASE][ERROR] - Test Cases/BookAnAppointment: Test Cases/BookAnAppointment has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <system-out><![CDATA[04-03-2024T00:52:44 - [TEST_SUITE][ERROR] - BookAnappointment: Test Cases/Login has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+      <system-err><![CDATA[04-03-2024T00:52:44 - [TEST_SUITE][ERROR] - BookAnappointment: Test Cases/Login has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+   </testsuite>
+</testsuites>
