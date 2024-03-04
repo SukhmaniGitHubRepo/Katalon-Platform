@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+BookAnappointment,,,,04-03-2024 18:09:59,04-03-2024 18:09:59,0.537s,PASSED
+,,,,,,,
+Test Cases/Login,,,,04-03-2024 18:09:59,04-03-2024 18:09:59,0.252s,PASSED
+return null,,,,04-03-2024 18:09:59,04-03-2024 18:09:59,0.002s,PASSED
+,,,,,,,
+Test Cases/BookAnAppointment,,,,04-03-2024 18:09:59,04-03-2024 18:09:59,0.021s,PASSED
+return null,,,,04-03-2024 18:09:59,04-03-2024 18:09:59,0.001s,PASSED
